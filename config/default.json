@@ -1,0 +1,5 @@
+{
+  "port": 8787,
+  "jwtSecret": "Ahmed 2021 ICS",
+  "mongoUri": "mongodb://localhost:27017/link-shortener"
+}
