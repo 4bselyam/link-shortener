@@ -2,5 +2,5 @@
   "port": 5000,
   "jwtSecret": "Ahmed 2021 ICS",
   "mongoUri": "mongodb://localhost:27017/link-shortener",
-  "baseUrl": "http://localhost:8787"
+  "baseUrl": "http://localhost:5000"
 }
