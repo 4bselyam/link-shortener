@@ -6,6 +6,8 @@ cd client
 npm install
 ```
 
+test
+
 ## Available Scripts
 
 In the project directory, you can run:
